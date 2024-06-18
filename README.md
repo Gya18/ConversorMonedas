@@ -1,14 +1,23 @@
-# Conversor de Moneda
+# Conversor de Monedas - Alura Latam
+Proyecto realizado en Java que permite hacer la conversión de monedas de un país a otro utilizando la API de ExchangeRate.
 
-## Primer clallenge de la especalidad Backend
+## Caracteristicas:
+* Conversión en Tiempo Real: Obtiene las últimas tasas de cambio del mercado.
+* Múltiples Monedas: Permite cambiar entre distintas monedas.
+* Múltiples Consultas: Permite realizar varias conversiones en una misma sesión.
+* Procesamiento de Respuestas JSON: Utiliza la biblioteca Gson para procesar las respuestas de la API como objetos JSON.
 
-### En esta oportunidad, como parte del programa ONE de Oracle/Alura, construí un conversor de moneda, la aplicación cuenta con divisas de 7 países diferentes entre los que se podrá hace la conversion de tipo de cambio.
-[![menu-De-Opciones.png](https://i.postimg.cc/9FKH8Znp/menu-De-Opciones.png)](https://postimg.cc/SJ6Pj2q2)
+## Instalación:
+* Clona el repositorio o descargalo en tu computador.
+* Abre el proyecto en tu IDE de Java preferido.
+* Recuerda tener Gson en el proyecto.
 
-### El resultado seria el siguiente ###
-[![cantidad-Convertida.png](https://i.postimg.cc/wMzQTfMV/cantidad-Convertida.png)](https://postimg.cc/R6PHgTc6)
+## Uso:
+* Ejecuta el archivo "Principal"
+* Ingresa el código del pais de la moneda de origen.
+* Ingresa el código del pais de la moneda de destino.
+* Ingresa la cantidad con la que deseas hacer la conversión.
+* Espera la respuesta y eligue si deseas continuar o salir.
+ Listo, espero que disfrutes del programa ^^.
 
-### Otros resultados fuera del menu de opciones y salida del programa son ###
-[![otros-Mensajes.png](https://i.postimg.cc/zD9VWbFs/otros-Mensajes.png)](https://postimg.cc/BtBSfvyp)
-
-Cualquier consulta o sugerencia serán bienvenidas a addrymcasta@gmail.com gracias
+Cualquier consulta o sugerencia serán bienvenidas a https://github.com/Gya18 gracias.
